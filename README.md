@@ -2,7 +2,7 @@
 I'm a fullstack Developer, I create products primarily in Django and React js
 
 
-Skills: Python3 / Django / REACT / JS / HTML / CSS
+Skills: Java / Python3 / Django / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate on open source projects 
