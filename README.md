@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamula&show_icons=true&locale=en" alt="kamula" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamula&" alt="kamula" /></p>
+
+<a href="https://app.daily.dev/Kamula"><img src="https://api.daily.dev/devcards/0ff9b39c185a4eada0ac073cf48487be.png?r=eav" width="400" alt="Isaac Kamula's Dev Card"/></a>
