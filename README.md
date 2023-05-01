@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamula</h1>
 <h3 align="center">A fullstack Developer, I create products primarily in Django and React js</h3>
 
+<a href="https://app.daily.dev/Kamula"><img src="https://api.daily.dev/devcards/0ff9b39c185a4eada0ac073cf48487be.png?r=eav" width="400" alt="Isaac Kamula's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamula&label=Profile%20views&color=0e75b6&style=flat" alt="kamula" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamula" alt="kamula" /></a> </p>
@@ -32,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamula&" alt="kamula" /></p>
 
-<a href="https://app.daily.dev/Kamula"><img src="https://api.daily.dev/devcards/0ff9b39c185a4eada0ac073cf48487be.png?r=eav" width="400" alt="Isaac Kamula's Dev Card"/></a>
+
